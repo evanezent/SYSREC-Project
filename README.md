@@ -1,6 +1,6 @@
 # SYSTEM RECOGNITION
 
-This is our project course to build ```Image Classification using Convolutional Neural Network```
+This is our project course to build ```Gender Classification using Convolutional Neural Network```
 
 We use gender classification dataset from [kaggle](https://www.kaggle.com/atulanandjha/lfwpeople)
 
