@@ -2,7 +2,7 @@
 
 This is our project course to build ```Gender Classification using Convolutional Neural Network```
 
-We use gender classification dataset from [kaggle](https://www.kaggle.com/atulanandjha/lfwpeople)
+We use dataset from [kaggle](https://www.kaggle.com/atulanandjha/lfwpeople)
 
 Our team :
 1. Pratama Yoga Santosa (1301170073)
